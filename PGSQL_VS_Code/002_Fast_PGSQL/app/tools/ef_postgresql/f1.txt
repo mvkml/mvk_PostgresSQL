@@ -1,0 +1,6 @@
+C:\v\v\learn\lv_python\ai\VishAgent\app\tools\ef_postgresql\ef_tool_generate_entities.py
+C:\v\v\learn\lv_python\ai\VishAgent\app\tools\ef_postgresql\
+
+
+
+(venv) c:\v\v\learn\lv_python\ai\VishAgent>

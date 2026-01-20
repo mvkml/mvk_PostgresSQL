@@ -1,0 +1,9 @@
+cd C:\v\v\learn\lv_python\ai\VishAgent
+.\app\venv\Scripts\activate
+
+python -m sqlacodegen "postgresql+psycopg2://postgres:Postgres%40007@localhost:5432/VikiHospitalBot" `
+  --schemas conv `
+  --tables ai_message `
+  --outfile app\models\ai_message.py
+
+Note: working
